@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FahdSA1
 - 👀 I’m interested in Data science, Machine learning, Artificial intelligence
-- 💞️ I’m looking to collaborate on Data scince im general 
+- 💞️ I’m looking to collaborate on Data scince in general 
 - 📫 How to reach me Twitter @Fahd_SA23 
 
 <!---
